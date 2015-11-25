@@ -1,6 +1,8 @@
 Magento Promotion Popup Extension
 ================
 
+WARNING: Doesn't seem to work anymore !
+
 This extension allows you to create and configure a promotion popup from Back Office.
 
 # Main features
